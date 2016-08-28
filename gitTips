@@ -11,9 +11,25 @@
   检出分支 
 	ex: git checkout 分支名
 
+  查看远程仓库的别名：git remote
+
+  查看远程仓库的地址：git remote -v
+
+  查看本地以及远程仓库的分支: git branch -a
+
 2）分支
   
-  列出分支：git branch
+  查看当前的分支：git branch
+
+  查看最近一次提交的commit的信息：git branch -v
+
+  创建分支：git branch 分支名
+
+	ex:git branch dev ( 创建分支名为dev的分支 ）
+
+   切换分支：git checkout 分支名
+
+	ex:git checkout dev ( 切换到分支名为dev的分支上 ）
 
 3) 添加代码到github
 
@@ -29,6 +45,13 @@
   git commit -m 'new horizons'
   git push
 
+4) 检查最近一次
+
+
+
+ 			Work Cited
+  
+  1. Github及Git使用教程1 : http://v.youku.com/v_show/id_XNjQ5NzI1NTgw.html?beta&from=s1.8-1-1.2&spm=0.0.0.0.zlAWSR
 
 
 
