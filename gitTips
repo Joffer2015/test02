@@ -33,17 +33,17 @@
 
 3) 添加代码到github
 
-  git init 
-  git add 文件名
-  git commit -m 'first commit'
-  git push -u origin master
-
-  或者
-  
-  git init
+  (git init)
   git add -A
   git commit -m 'new horizons'
   git push
+
+    或者
+
+  git init 
+  git add 文件名
+  git commit -m 'first commit'
+  git push -u origin master 
 
 4) 检查最近一次
 
