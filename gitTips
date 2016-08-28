@@ -1,0 +1,36 @@
+1) 基本操作
+
+  初始化版本库：git init
+ 
+  添加新文件:git add 文件名
+
+	ex: git add file01.c
+
+  提交到本地版本库：git commit 
+  
+  检出分支 
+	ex: git checkout 分支名
+
+2）分支
+  
+  列出分支：git branch
+
+3) 添加代码到github
+
+  git init 
+  git add 文件名
+  git commit -m 'first commit'
+  git push -u origin master
+
+  或者
+  
+  git init
+  git add -A
+  git commit -m 'new horizons'
+  git push
+
+
+
+
+
+ 
