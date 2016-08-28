@@ -1,2 +1,2 @@
 # 
-Sunday 2:03
+Sunday 2:03 pm
